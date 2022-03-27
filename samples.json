@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "title": "Quarter of the year",
+    "body": "Given a month as an integer from 1 to 12, return to which quarter of the year it belongs as an integer number.",
+    "examples": [
+      {
+        "id": 1,
+        "input": "2",
+        "output": "first quarter"
+      },
+      {
+        "id": 2,
+        "input": "6",
+        "output": "second quarter"
+      },
+      {
+        "id": 3,
+        "input": "11",
+        "output": "fourth quarter"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Multiples of 3 or 5",
+    "body": "If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.\n\nFinish the solution so that it returns the sum of all the multiples of 3 or 5 below the number passed in. Additionally, if the number is negative, return 0 (for languages that do have them).\n\nNote: If the number is a multiple of both 3 and 5, only count it once.",
+    "examples": [
+      {
+        "id": 1,
+        "input": "10",
+        "output": "23"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Vowel Count",
+    "body": "Return the number (count) of vowels in the given string.\n\nWe will consider a, e, i, o, u as vowels for this Kata (but not y).\n\nThe input string will only consist of lower case letters and/or spaces.",
+    "examples": [
+      {
+        "id": 1,
+        "input": "abcde",
+        "output": "2"
+      },
+      {
+        "id": 2,
+        "input": "AAEEOOI",
+        "output": "7"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Even or Odd",
+    "body": "Create a function that takes an integer as an argument and returns \"Even\" for even numbers or \"Odd\" for odd numbers.",
+    "examples": [
+      {
+        "id": 1,
+        "input": "2",
+        "output": "Even"
+      },
+      {
+        "id": 2,
+        "input": "5",
+        "output": "Odd"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Find the odd int",
+    "body": "Given an array of integers, find the one that appears an odd number of times.\n\nThere will always be only one integer that appears an odd number of times.",
+    "examples": [
+      {
+        "id": 1,
+        "input": "[7]",
+        "output": "7"
+      },
+      {
+        "id": 2,
+        "input": "[1,1,2]",
+        "output": "2"
+      },
+      {
+        "id": 3,
+        "input": "[0,1,0,1,0]",
+        "output": "0"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Square Every Digit",
+    "body": "Welcome. In this kata, you are asked to square every digit of a number and concatenate them.\n\nFor example, if we run 9119 through the function, 811181 will come out, because 92 is 81 and 12 is 1.",
+    "examples": [
+      {
+        "id": 1,
+        "input": "9119",
+        "output": "811181"
+      }
+    ]
+  }
+]
