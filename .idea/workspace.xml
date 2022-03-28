@@ -4,13 +4,55 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22aa0026-af32-4256-a41f-bfad8e7a0a8f" name="Changes" comment="" />
+    <list default="true" id="22aa0026-af32-4256-a41f-bfad8e7a0a8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compiler.go" beforeDir="false" afterPath="$PROJECT_DIR$/compiler.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419510.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419510.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419542.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419542.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419569.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419569.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419675.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419675.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419686.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419686.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419722.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419722.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419736.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648419736.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420562.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420562.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420739.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420739.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420767.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420767.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420776.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420776.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420802.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420802.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420844.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420844.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420845.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/1648420845.exe" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
   <component name="GOROOT" url="file://C:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -18,14 +60,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26zHeZmnvsw8qxd3SjfH2Hpkcio" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="true" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
     <property name="go.format.on.save.advertiser.fired" value="true" />
     <property name="go.formatter.settings.were.checked" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -33,11 +81,61 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\quera-server" />
+      <recent name="E:\quera-server\internal\structs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="quera-server" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build anti_alaiian" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="quera-server" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="anti_alaiian" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/compiler.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="quera-server" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build anti_alaiian" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
